@@ -10,13 +10,13 @@
 
 ### Windows
 
-- `牛逼-3.7.8-windows-amd64-setup.exe`：Windows 安装版
-- `牛逼-3.7.8-windows-amd64.zip`：Windows 免安装版
+- `niubi-3.7.8-windows-amd64-setup.exe`：Windows 安装版
+- `niubi-3.7.8-windows-amd64.zip`：Windows 免安装版
 
 ### macOS
 
-- `牛逼-3.7.8-macos-universal.dmg`：macOS 安装包
-- `牛逼-3.7.8-macos-universal.zip`：macOS 压缩包
+- `niubi-3.7.8-macos-universal.dmg`：macOS 安装包
+- `niubi-3.7.8-macos-universal.zip`：macOS 压缩包
 
 ### Linux
 
@@ -26,14 +26,14 @@
 
 ### Android
 
-- `牛逼-mobile-universal.apk`：Android 通用版
-- `牛逼-mobile-arm64-v8a.apk`：Android arm64 设备
-- `牛逼-mobile-armeabi-v7a.apk`：Android 32 位 ARM 设备
-- `牛逼-mobile-emulator.apk`：Android 模拟器
+- `niubi-mobile-universal.apk`：Android 通用版
+- `niubi-mobile-arm64-v8a.apk`：Android arm64 设备
+- `niubi-mobile-armeabi-v7a.apk`：Android 32 位 ARM 设备
+- `niubi-mobile-emulator.apk`：Android 模拟器
 
 ### Android TV
 
-- `牛逼-tv.apk`：Android TV 版本
+- `niubi-tv.apk`：Android TV 版本
 
 ### 软路由
 
