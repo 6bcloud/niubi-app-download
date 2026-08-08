@@ -35,10 +35,8 @@
 
 ### 软路由
 
-- `luci-app-mihomo_3.7.8_all.ipk`：OpenWrt LuCI 管理界面
-- `mihomo_3.7.8_aarch64_generic.ipk`：OpenWrt aarch64
-- `mihomo_3.7.8_arm_cortex-a7.ipk`：OpenWrt arm cortex-a7
-- `mihomo_3.7.8_x86_64.ipk`：OpenWrt x86_64
+- `3.7.10_X86_v1.ipk`：OpenWrt x86 设备
+- `3.7.10_ARM64_v1.ipk`：OpenWrt ARM64 设备
 
 ## 校验文件
 
