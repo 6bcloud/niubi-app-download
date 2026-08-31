@@ -33,11 +33,6 @@
 
 - `niubi-tv.apk`：Android TV 版本
 
-### 软路由
-
-- `3.7.10_X86_v1.2.ipk`：OpenWrt x86 设备
-- `3.7.10_ARM64_v1.2.ipk`：OpenWrt ARM64 设备
-
 ## 校验文件
 
 Release 中会附带 `checksums.txt`，可用于核对下载文件是否完整。
